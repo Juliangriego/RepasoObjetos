@@ -1,4 +1,4 @@
-package funciones;
+package Clases;
 
 public class Menues {
     public static void MenuPrincipal(){

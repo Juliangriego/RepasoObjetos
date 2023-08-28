@@ -1,4 +1,4 @@
-package funciones;
+package Clases;
 import java.util.Scanner;
 
 public class Validaciones {
